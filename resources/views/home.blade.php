@@ -1,6 +1,9 @@
 @extends('layouts.app')
 
 @section('content')
+<?php
+var_dump('session',session);
+?>
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
