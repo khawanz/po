@@ -1,2 +1,6 @@
 # po
-project bareng molmol
+
+Purchase Order App
+Using:
+- laravel 5.4
+- charjs
